@@ -1,0 +1,2 @@
+2024-05-09T18:00:15.426440 - ProxyServer.java :: O servidor proxy foi alocado na porta 1515.
+2024-05-09T18:00:15.426441 - DataServer.java :: O servidor de dados foi alocado na porta 1616.
